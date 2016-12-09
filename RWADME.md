@@ -1,3 +1,5 @@
+APP操作指南提示语
+
 MainAcitvity里面的提示语是用的Spotlight-library 第三方 
 详情可以看http://www.jcodecraeer.com/a/opensource/2016/0617/4358.html
 
